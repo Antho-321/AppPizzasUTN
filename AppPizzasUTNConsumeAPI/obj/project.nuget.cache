@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GammPwfwMvD4Jye82U2SzGzILoo1fmR1+hfkJYN9fArX12pWs2RVxJZ7WcW+jA8nQbN5cpqgZy3nr1amgrjaAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrador\\source\\repos\\AppPizzasUTN.Entidades\\AppPizzasUTNConsumeAPI\\AppPizzasUTNConsumeAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

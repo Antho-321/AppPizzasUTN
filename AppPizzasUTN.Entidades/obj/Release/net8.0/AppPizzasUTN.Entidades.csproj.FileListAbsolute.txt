@@ -1,0 +1,11 @@
+C:\Users\Administrador\source\repos\AppPizzasUTN.Entidades\AppPizzasUTN.Entidades\bin\Release\net8.0\AppPizzasUTN.Entidades.deps.json
+C:\Users\Administrador\source\repos\AppPizzasUTN.Entidades\AppPizzasUTN.Entidades\bin\Release\net8.0\AppPizzasUTN.Entidades.dll
+C:\Users\Administrador\source\repos\AppPizzasUTN.Entidades\AppPizzasUTN.Entidades\bin\Release\net8.0\AppPizzasUTN.Entidades.pdb
+C:\Users\Administrador\source\repos\AppPizzasUTN.Entidades\AppPizzasUTN.Entidades\obj\Release\net8.0\AppPizzasUTN.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\source\repos\AppPizzasUTN.Entidades\AppPizzasUTN.Entidades\obj\Release\net8.0\AppPizzasUTN.Entidades.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\AppPizzasUTN.Entidades\AppPizzasUTN.Entidades\obj\Release\net8.0\AppPizzasUTN.Entidades.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\AppPizzasUTN.Entidades\AppPizzasUTN.Entidades\obj\Release\net8.0\AppPizzasUTN.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\AppPizzasUTN.Entidades\AppPizzasUTN.Entidades\obj\Release\net8.0\AppPizzasUTN.Entidades.dll
+C:\Users\Administrador\source\repos\AppPizzasUTN.Entidades\AppPizzasUTN.Entidades\obj\Release\net8.0\refint\AppPizzasUTN.Entidades.dll
+C:\Users\Administrador\source\repos\AppPizzasUTN.Entidades\AppPizzasUTN.Entidades\obj\Release\net8.0\AppPizzasUTN.Entidades.pdb
+C:\Users\Administrador\source\repos\AppPizzasUTN.Entidades\AppPizzasUTN.Entidades\obj\Release\net8.0\ref\AppPizzasUTN.Entidades.dll

@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\source\\repos\\AppPizzasUTN.Entidades\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF74816-4C4B-4A95-9BCA-F7C15F1A4ED2}|AppPizzasUTN.MVC\\AppPizzasUTN.MVC.csproj|c:\\users\\administrador\\source\\repos\\apppizzasutn.entidades\\apppizzasutn.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CF74816-4C4B-4A95-9BCA-F7C15F1A4ED2}|AppPizzasUTN.MVC\\AppPizzasUTN.MVC.csproj|solutionrelative:apppizzasutn.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF74816-4C4B-4A95-9BCA-F7C15F1A4ED2}|AppPizzasUTN.MVC\\AppPizzasUTN.MVC.csproj|c:\\users\\administrador\\source\\repos\\apppizzasutn.entidades\\apppizzasutn.mvc\\controllers\\pizzasingredientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF74816-4C4B-4A95-9BCA-F7C15F1A4ED2}|AppPizzasUTN.MVC\\AppPizzasUTN.MVC.csproj|solutionrelative:apppizzasutn.mvc\\controllers\\pizzasingredientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF74816-4C4B-4A95-9BCA-F7C15F1A4ED2}|AppPizzasUTN.MVC\\AppPizzasUTN.MVC.csproj|c:\\users\\administrador\\source\\repos\\apppizzasutn.entidades\\apppizzasutn.mvc\\views\\pizzasingredientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CF74816-4C4B-4A95-9BCA-F7C15F1A4ED2}|AppPizzasUTN.MVC\\AppPizzasUTN.MVC.csproj|solutionrelative:apppizzasutn.mvc\\views\\pizzasingredientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF74816-4C4B-4A95-9BCA-F7C15F1A4ED2}|AppPizzasUTN.MVC\\AppPizzasUTN.MVC.csproj|c:\\users\\administrador\\source\\repos\\apppizzasutn.entidades\\apppizzasutn.mvc\\controllers\\ingredientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF74816-4C4B-4A95-9BCA-F7C15F1A4ED2}|AppPizzasUTN.MVC\\AppPizzasUTN.MVC.csproj|solutionrelative:apppizzasutn.mvc\\controllers\\ingredientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF74816-4C4B-4A95-9BCA-F7C15F1A4ED2}|AppPizzasUTN.MVC\\AppPizzasUTN.MVC.csproj|c:\\users\\administrador\\source\\repos\\apppizzasutn.entidades\\apppizzasutn.mvc\\views\\ingredientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CF74816-4C4B-4A95-9BCA-F7C15F1A4ED2}|AppPizzasUTN.MVC\\AppPizzasUTN.MVC.csproj|solutionrelative:apppizzasutn.mvc\\views\\ingredientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF74816-4C4B-4A95-9BCA-F7C15F1A4ED2}|AppPizzasUTN.MVC\\AppPizzasUTN.MVC.csproj|c:\\users\\administrador\\source\\repos\\apppizzasutn.entidades\\apppizzasutn.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CF74816-4C4B-4A95-9BCA-F7C15F1A4ED2}|AppPizzasUTN.MVC\\AppPizzasUTN.MVC.csproj|solutionrelative:apppizzasutn.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF74816-4C4B-4A95-9BCA-F7C15F1A4ED2}|AppPizzasUTN.MVC\\AppPizzasUTN.MVC.csproj|c:\\users\\administrador\\source\\repos\\apppizzasutn.entidades\\apppizzasutn.mvc\\views\\pizzasingredientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CF74816-4C4B-4A95-9BCA-F7C15F1A4ED2}|AppPizzasUTN.MVC\\AppPizzasUTN.MVC.csproj|solutionrelative:apppizzasutn.mvc\\views\\pizzasingredientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF74816-4C4B-4A95-9BCA-F7C15F1A4ED2}|AppPizzasUTN.MVC\\AppPizzasUTN.MVC.csproj|c:\\users\\administrador\\source\\repos\\apppizzasutn.entidades\\apppizzasutn.mvc\\views\\pizzasingredientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CF74816-4C4B-4A95-9BCA-F7C15F1A4ED2}|AppPizzasUTN.MVC\\AppPizzasUTN.MVC.csproj|solutionrelative:apppizzasutn.mvc\\views\\pizzasingredientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF74816-4C4B-4A95-9BCA-F7C15F1A4ED2}|AppPizzasUTN.MVC\\AppPizzasUTN.MVC.csproj|c:\\users\\administrador\\source\\repos\\apppizzasutn.entidades\\apppizzasutn.mvc\\views\\pizzasingredientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CF74816-4C4B-4A95-9BCA-F7C15F1A4ED2}|AppPizzasUTN.MVC\\AppPizzasUTN.MVC.csproj|solutionrelative:apppizzasutn.mvc\\views\\pizzasingredientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF74816-4C4B-4A95-9BCA-F7C15F1A4ED2}|AppPizzasUTN.MVC\\AppPizzasUTN.MVC.csproj|c:\\users\\administrador\\source\\repos\\apppizzasutn.entidades\\apppizzasutn.mvc\\views\\pizzasingredientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CF74816-4C4B-4A95-9BCA-F7C15F1A4ED2}|AppPizzasUTN.MVC\\AppPizzasUTN.MVC.csproj|solutionrelative:apppizzasutn.mvc\\views\\pizzasingredientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF74816-4C4B-4A95-9BCA-F7C15F1A4ED2}|AppPizzasUTN.MVC\\AppPizzasUTN.MVC.csproj|c:\\users\\administrador\\source\\repos\\apppizzasutn.entidades\\apppizzasutn.mvc\\views\\pizzas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CF74816-4C4B-4A95-9BCA-F7C15F1A4ED2}|AppPizzasUTN.MVC\\AppPizzasUTN.MVC.csproj|solutionrelative:apppizzasutn.mvc\\views\\pizzas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF74816-4C4B-4A95-9BCA-F7C15F1A4ED2}|AppPizzasUTN.MVC\\AppPizzasUTN.MVC.csproj|c:\\users\\administrador\\source\\repos\\apppizzasutn.entidades\\apppizzasutn.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF74816-4C4B-4A95-9BCA-F7C15F1A4ED2}|AppPizzasUTN.MVC\\AppPizzasUTN.MVC.csproj|solutionrelative:apppizzasutn.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AppPizzasUTN.Entidades\\AppPizzasUTN.MVC\\Views\\PizzasIngredientes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AppPizzasUTN.MVC\\Views\\PizzasIngredientes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AppPizzasUTN.Entidades\\AppPizzasUTN.MVC\\Views\\PizzasIngredientes\\Edit.cshtml",
+              "RelativeToolTip": "AppPizzasUTN.MVC\\Views\\PizzasIngredientes\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T18:27:03.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AppPizzasUTN.Entidades\\AppPizzasUTN.MVC\\Views\\Pizzas\\Details.cshtml",
+              "RelativeDocumentMoniker": "AppPizzasUTN.MVC\\Views\\Pizzas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AppPizzasUTN.Entidades\\AppPizzasUTN.MVC\\Views\\Pizzas\\Details.cshtml",
+              "RelativeToolTip": "AppPizzasUTN.MVC\\Views\\Pizzas\\Details.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T18:26:20.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AppPizzasUTN.Entidades\\AppPizzasUTN.MVC\\Views\\PizzasIngredientes\\Details.cshtml",
+              "RelativeDocumentMoniker": "AppPizzasUTN.MVC\\Views\\PizzasIngredientes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AppPizzasUTN.Entidades\\AppPizzasUTN.MVC\\Views\\PizzasIngredientes\\Details.cshtml",
+              "RelativeToolTip": "AppPizzasUTN.MVC\\Views\\PizzasIngredientes\\Details.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T18:26:17.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AppPizzasUTN.Entidades\\AppPizzasUTN.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "AppPizzasUTN.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AppPizzasUTN.Entidades\\AppPizzasUTN.MVC\\appsettings.json",
+              "RelativeToolTip": "AppPizzasUTN.MVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T18:22:11.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AppPizzasUTN.Entidades\\AppPizzasUTN.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "AppPizzasUTN.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AppPizzasUTN.Entidades\\AppPizzasUTN.MVC\\Program.cs",
+              "RelativeToolTip": "AppPizzasUTN.MVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:22:01.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AppPizzasUTN.Entidades\\AppPizzasUTN.MVC\\Views\\PizzasIngredientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppPizzasUTN.MVC\\Views\\PizzasIngredientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AppPizzasUTN.Entidades\\AppPizzasUTN.MVC\\Views\\PizzasIngredientes\\Index.cshtml",
+              "RelativeToolTip": "AppPizzasUTN.MVC\\Views\\PizzasIngredientes\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC8AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T18:21:22.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PizzasIngredientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AppPizzasUTN.Entidades\\AppPizzasUTN.MVC\\Controllers\\PizzasIngredientesController.cs",
+              "RelativeDocumentMoniker": "AppPizzasUTN.MVC\\Controllers\\PizzasIngredientesController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AppPizzasUTN.Entidades\\AppPizzasUTN.MVC\\Controllers\\PizzasIngredientesController.cs",
+              "RelativeToolTip": "AppPizzasUTN.MVC\\Controllers\\PizzasIngredientesController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:30:35.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AppPizzasUTN.Entidades\\AppPizzasUTN.MVC\\Views\\PizzasIngredientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "AppPizzasUTN.MVC\\Views\\PizzasIngredientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AppPizzasUTN.Entidades\\AppPizzasUTN.MVC\\Views\\PizzasIngredientes\\Create.cshtml",
+              "RelativeToolTip": "AppPizzasUTN.MVC\\Views\\PizzasIngredientes\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T18:27:49.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IngredientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AppPizzasUTN.Entidades\\AppPizzasUTN.MVC\\Controllers\\IngredientesController.cs",
+              "RelativeDocumentMoniker": "AppPizzasUTN.MVC\\Controllers\\IngredientesController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AppPizzasUTN.Entidades\\AppPizzasUTN.MVC\\Controllers\\IngredientesController.cs",
+              "RelativeToolTip": "AppPizzasUTN.MVC\\Controllers\\IngredientesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:33:12.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AppPizzasUTN.Entidades\\AppPizzasUTN.MVC\\Views\\PizzasIngredientes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AppPizzasUTN.MVC\\Views\\PizzasIngredientes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AppPizzasUTN.Entidades\\AppPizzasUTN.MVC\\Views\\PizzasIngredientes\\Delete.cshtml",
+              "RelativeToolTip": "AppPizzasUTN.MVC\\Views\\PizzasIngredientes\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T18:28:17.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AppPizzasUTN.Entidades\\AppPizzasUTN.MVC\\Views\\Ingredientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppPizzasUTN.MVC\\Views\\Ingredientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AppPizzasUTN.Entidades\\AppPizzasUTN.MVC\\Views\\Ingredientes\\Index.cshtml",
+              "RelativeToolTip": "AppPizzasUTN.MVC\\Views\\Ingredientes\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC0AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T18:10:20.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\AppPizzasUTN.Entidades\\AppPizzasUTN.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppPizzasUTN.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\AppPizzasUTN.Entidades\\AppPizzasUTN.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AppPizzasUTN.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T18:28:19.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
